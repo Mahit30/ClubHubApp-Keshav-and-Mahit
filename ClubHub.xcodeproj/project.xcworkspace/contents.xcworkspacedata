@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../ViewControllerLynbrook.swift">
+   </FileRef>
+   <FileRef
+      location = "group:../ClubHub/ViewControllerFremont.swift">
+   </FileRef>
+   <FileRef
+      location = "group:../ViewControllerHomestead.swift">
+   </FileRef>
+   <FileRef
+      location = "group:../../HomesteadClubs copy.txt">
+   </FileRef>
+   <FileRef
+      location = "self:">
+   </FileRef>
+</Workspace>
